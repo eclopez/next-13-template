@@ -1,0 +1,16 @@
+{
+  "name": "next-13-template",
+  "version": "1.0.0",
+  "description": "My preferred starting point for Next.js 13 projects",
+  "author": "Erik Lopez",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+  "dependencies": {
+    "next": "^13.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
